@@ -1,0 +1,29 @@
+1
+James Gosling
+
+2
+Un programme Java peut etre execute sur toute plateforme possedant une JVM sans modification
+
+3
+Executer le bytecode Java et le traduire en code machine
+
+4
+Compilation transformation du code source en bytecode avant execution
+Interpretation execution du programme pendant son fonctionnement
+
+5
+Code Java vers JVM vers Code machine
+Role du bytecode code intermediaire portable execute par la JVM
+
+6
+Parce que le bytecode peut etre execute sur toutes les plateformes ayant une JVM
+
+7
+public accessible partout
+static lie a la classe
+void ne retourne rien
+String args arguments du programme
+Si le nom du fichier est different du nom de la classe publique erreur de compilation
+
+8
+compile le fichier et genere Bonjour.class
